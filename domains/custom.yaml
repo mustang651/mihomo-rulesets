@@ -1,4 +1,4 @@
 ﻿payload:
-  - DOMAIN,hoyoverse.com
-  - DOMAIN,hoyolab.com
-  - DOMAIN,citilink.ru
+  - +.hoyoverse.com
+  - +.hoyolab.com
+  - +.citilink.ru
